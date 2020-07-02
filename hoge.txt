@@ -11,3 +11,4 @@ master
 dev-a
 dev-b
 dev-c
+dev-d
